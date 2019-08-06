@@ -1,0 +1,2 @@
+In pages foler, we will include non-reusable components.
+Any component that can be reused will be inside copmonents folder
